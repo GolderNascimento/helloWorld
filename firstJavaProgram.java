@@ -8,6 +8,6 @@ public class FirstJavaProgram{
 
 public static void main(String[] args){
   
-  System.out.pringln("hello WOrld");
+  System.out.println("hello World");
   }
 }
